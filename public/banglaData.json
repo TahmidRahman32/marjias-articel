@@ -1,0 +1,102 @@
+[
+   {
+      "id": 1,
+      "title": "The Art of Programming",
+      "cover": "https://i.ibb.co/g94CvHL/348815069-1291306855131177-2219381329014563044-n.jpg",
+      "author": "Marjia mir",
+      "author_img": "https://i.ibb.co/7Jzdk4Y/321830210-1179459436294466-102736734163719557-n.jpg",
+      "article_bangla": "এবং সূর্য অস্ত যাওয়ার পর তার সমস্ত কারিশমানিভে ক্ষীণ হয়েযায়।কিন্তুতবু্ও মানুষের জন্য সুন্দর স্মৃতি রেখে যায়।আজকের অসম্ভব সুন্দর গোধুলিয়া।...",
+      "reading_time": 10,
+      "date": "2024-02-07"
+   },
+   {
+      "id": 2,
+      "title": "Machine Learning Fundamentals",
+      "cover": "https://i.ibb.co/PCjBXHS/348863712-926811381973298-4738444522419303380-n.jpg",
+      "author": "Marjia mir",
+      "author_img": "https://i.ibb.co/7Jzdk4Y/321830210-1179459436294466-102736734163719557-n.jpg",
+      "article_bangla": "হে রাসূল! দাওনা দেখা আমায় হৃদয়ে তোমার ছবি আঁকবো সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম.।...",
+      "reading_time": 15,
+      "date": "2024-02-07"
+   },
+   {
+      "id": 3,
+      "title": "The Power of Words",
+      "cover": "https://i.ibb.co/pjN6Vvg/348959958-767340848455629-1221980056712011193-n.jpg",
+      "author": "Marjia mir",
+      "author_img": "https://i.ibb.co/7Jzdk4Y/321830210-1179459436294466-102736734163719557-n.jpg",
+      "article_bangla": "পথের সঙ্গী আকাশ, নিজের সঙ্গী ছায়া!!আর আমার সঙ্গী হাওয়া!এনিওয়ে আজকে আমি একমুঠো শিউলী ছুঁয়েছি এই গুরুত্বপূর্ণ সংবাদ টা আপনাদের জানালাম।...",
+      "reading_time": 8,
+      "date": "2024-02-07"
+   },
+   {
+      "id": 4,
+      "title": "Exploring the Universe",
+      "cover": "https://i.ibb.co/BnpY20Y/357135759-800094548496846-4814517799229199615-n.jpg",
+      "author": "Marjia mir",
+      "author_img": "https://i.ibb.co/7Jzdk4Y/321830210-1179459436294466-102736734163719557-n.jpg",
+      "article_bangla": "আপনি সরল সহজ হন,মানুষ আপনাকে বেশি পছন্দ করবে,ফুলের মতো।...",
+      "reading_time": 20,
+      "date": "2024-02-07"
+   },
+   {
+      "id": 5,
+      "title": "Cooking with Passion",
+      "cover": "https://i.ibb.co/wp8Vj02/357369795-800094858496815-7306833085712718696-n.jpg",
+      "author": " Marjia mir",
+      "author_img": "https://i.ibb.co/7Jzdk4Y/321830210-1179459436294466-102736734163719557-n.jpg",
+      "article_bangla": "শরতের আকাশে মেঘ যেমন উড়ে যায় তেমনি তুমি আমায় ভুলে যেও মানুষ ছাড়া ও আমি তো ফুল নিয়েও বাঁচতে পারি!!।...",
+      "reading_time": 12,
+      "date": "2024-02-07"
+   },
+   {
+      "id": 6,
+      "title": "The World of Finance",
+      "cover": "https://i.ibb.co/3B9Kr70/357386521-800424905130477-740575275801592440-n.jpg",
+      "author": "Marjia mir",
+      "author_img": "https://i.ibb.co/7Jzdk4Y/321830210-1179459436294466-102736734163719557-n.jpg",
+      "article_bangla": "আমি আলো কিনে এনেছি তবুও অন্ধকার গুছাতে পারি নি!।...",
+      "reading_time": 18,
+      "date": "2024-02-07"
+   },
+   {
+      "id": 7,
+      "title": "Artificial Intelligence and Ethics",
+      "cover": "https://i.ibb.co/GxG4Dg1/361663293-808511147655186-469910438479305796-n.jpg",
+      "author": "Marjia mir",
+      "author_img": "https://i.ibb.co/7Jzdk4Y/321830210-1179459436294466-102736734163719557-n.jpg",
+      "article_bangla": "ফুলপ্রিয়ারা ফুলের মধ্যে পার্থক্য করতে জানে নাহ। রাস্তার ধারের কাটা গাছের ফুলটাও তাদের স্বাচ্ছন্দের খোরাক।...",
+      "reading_time": 25,
+      "date": "2024-02-07"
+   },
+   {
+      "id": 8,
+      "title": "History Uncovered",
+      "cover": "https://i.ibb.co/C9Cf1b3/382597909-847921413714159-7304359520979742067-n.jpg",
+      "author": "Marjia mir",
+      "author_img": "https://i.ibb.co/7Jzdk4Y/321830210-1179459436294466-102736734163719557-n.jpg",
+      "article_bangla": "আমি স্বচক্ষে কৃষ্ণচূড়া দেখেছি। দেখেছি তার অভাবনীয় রূপ। আমি একমুঠো বকুল দেখেছি দেখিনি শুধু প্রিয়তমের স্নিগ্ধময়ী মুখ...",
+      "reading_time": 30,
+      "date": "2024-02-07"
+   },
+   {
+      "id": 9,
+      "title": "The Joy of Travel",
+      "cover": "https://i.ibb.co/PCMF3RS/397991300-864097005429933-1064351780945383699-n.jpg",
+      "author": "Marjia mir",
+      "author_img": "https://i.ibb.co/7Jzdk4Y/321830210-1179459436294466-102736734163719557-n.jpg",
+      "article_bangla": "কিছু সময় ভীষণ যত্নের হয়,প্রকৃতির সাথে কাটানো সময় গুলো একটু বেশিই যত্নের। আজকের ঘুরাঘুরিতে সুন্দর মানুষ আর প্রকৃতি সাথে ছিলো...",
+      "reading_time": 22,
+      "date": "2024-02-07"
+   },
+   {
+      "id": 10,
+      "title": "Marjia mir",
+      "cover": "https://i.ibb.co/b78kcBd/400367184-868632364976397-4977055386455073212-n.jpg",
+      "author": "Sarah Johnson",
+      "author_img": "https://i.ibb.co/7Jzdk4Y/321830210-1179459436294466-102736734163719557-n.jpg",
+      "article_bangla": "আমি গোধূলিয়ায় সেজে থাকা আকাশ দেখেছি লাল টকটকে কৃষ্ণচূড়া ছুঁয়ে দেখেছি বহুবার আমি স্বপ্ন বুনে ঝাপসা তৈলচিত্র গড়েছি তার তবুও করি নি প্রিয়তম নামক আবদার।।...",
+      "reading_time": 22,
+      "date": "2024-02-07"
+   }
+]
